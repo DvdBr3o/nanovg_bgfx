@@ -1,7 +1,0 @@
-{
-    cmdlines = {
-        [[xmake l D:\Applications\persist\vscode\data\extensions\tboox.xmake-vscode-2.0.9\assets\update_intellisense.lua .vscode]],
-        [[xmake l D:\Applications\persist\vscode\data\extensions\tboox.xmake-vscode-2.0.9\assets\explorer.lua]],
-        [[xmake l D:\Applications\persist\vscode\data\extensions\tboox.xmake-vscode-2.0.9\assets\explorer.lua]]
-    }
-}
