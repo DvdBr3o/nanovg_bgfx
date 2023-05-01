@@ -1,3 +1,6 @@
+set_xmakever("2.7.1")
+set_project("nanovg_bgfx")
+
 add_requires("bgfx")
 add_requires("stb")
 

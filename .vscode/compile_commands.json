@@ -1,0 +1,11 @@
+[
+{
+  "directory": "d:\\DevEnv\\nanovg_bgfx",
+  "arguments": ["clang.exe", "-c", "-Qunused-arguments", "-m64", "-I.", "-fexceptions", "-fcxx-exceptions", "-o", "build\\.objs\\nanovg_bgfx\\windows\\x64\\nanovg_bgfx.cpp.obj", "nanovg_bgfx.cpp"],
+  "file": "nanovg_bgfx.cpp"
+},
+{
+  "directory": "d:\\DevEnv\\nanovg_bgfx",
+  "arguments": ["clang.exe", "-c", "-Qunused-arguments", "-m64", "-I.", "-fexceptions", "-fcxx-exceptions", "-o", "build\\.objs\\nanovg_bgfx\\windows\\x64\\nanovg.cpp.obj", "nanovg.cpp"],
+  "file": "nanovg.cpp"
+}]
