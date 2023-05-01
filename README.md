@@ -19,6 +19,8 @@ In you `xmake.lua`, include the directory and use `add_deps` to load `nanovg_bgf
 
 ```lua
 -- xmake.lua --
+includes("deps/nanovg_bgfx")
+
 target("my_target")
 	-- ...
 	add_deps("nanovg_bgfx")
