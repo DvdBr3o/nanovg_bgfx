@@ -1,7 +1,11 @@
 # nanovg_bgfx
 The nanovg utilities under bgfx. Copied from bgfx/examples/common and adapted for xmake.
 
-
+> **Attention**
+>
+> There is still weird linkage error and memory segment fault in these files, and I have no idea about how to deal with it as a result of bgfx being documented not so well.
+>
+> Maybe someday someone can help fix this... ;(
 
 ## How to Use
 
