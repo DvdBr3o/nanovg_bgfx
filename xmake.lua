@@ -17,7 +17,3 @@ target("nanovg_bgfx")
     add_headerfiles("fs_nanovg_fill.bin.h")
     add_headerfiles("vs_nanovg_fill.bin.h")
     add_includedirs(".", {public = true})
-
-target("lab")
-    add_deps("nanovg_bgfx")
-    add_files("main.cpp")
