@@ -2,3 +2,6 @@
 *.vscode
 *build
 *clangd-trace.json
+*.cache
+*compile_commands.json
+main.cpp
